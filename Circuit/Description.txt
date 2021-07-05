@@ -1,0 +1,7 @@
+1 x Arduino 
+1 x Ultrasonic Sensor
+1 x Buzzer
+1 x 100 ohm Resistor
+Connection cables
+
+Join as per diagram
